@@ -2,3 +2,5 @@
 *.json
 *.yaml
 *.yml
+__pycache__/
+*.pyc
